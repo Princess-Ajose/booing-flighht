@@ -1,0 +1,6 @@
+# GET @url Http://localhost:3000
+GET url 'http://localhost:3000'
+
+get {add flight} 
+
+.DELETE url HTTP/1.1
